@@ -1,6 +1,6 @@
 # Hi there, I'm Sumit! 👋
 
-![Sumit's Journey](./career graph 1.png)
+![Sumit's Journey](./career_path.png)
 
 ### 🤖 AI/ML Engineer & Researcher
 
