@@ -30,8 +30,8 @@ I am passionate about building end-to-end generative AI applications and researc
 I am currently looking for roles in **Machine Learning Engineering** or **AI Research**. I specialize in creating deployment-ready code and translating research concepts into production applications.
 
 <!-- * **Portfolio:** [Link to your portfolio/website] -->
-* **LinkedIn:** [[Link to your LinkedIn](https://www.linkedin.com/in/sumitkumar-airesearcher/)]
-* **Email:** [sumitrwk@gmail.com]
+* **LinkedIn:** [Link to your LinkedIn](https://www.linkedin.com/in/sumitkumar-airesearcher/)
+* **Email:** sumitrwk@gmail.com
 
 ---
 
