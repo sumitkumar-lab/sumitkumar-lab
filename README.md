@@ -1,7 +1,5 @@
 # Hi there, I'm Sumit! 👋
 
-![Sumit's Journey](./career_path.png)
-
 ### 🤖 AI/ML Engineer & Researcher
 
 I am passionate about building end-to-end generative AI applications and research tools. My work focuses on model ablation testing, LLM training pipelines (Pretraining, SFT, RLHF), and deploying scalable ML architectures.
